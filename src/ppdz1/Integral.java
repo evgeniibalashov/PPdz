@@ -1,3 +1,5 @@
+package ppdz1;
+
 import java.util.concurrent.atomic.DoubleAdder;
 
 public class Integral {
